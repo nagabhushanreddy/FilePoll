@@ -1,0 +1,162 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/naga/scala-workspace/projects/FilePoll/build/classes/main
+compile options:
+2 items
+0 -> -deprecation
+1 -> -unchecked
+javac options:
+8 items
+0 -> -source
+1 -> 1.8
+2 -> -target
+3 -> 1.8
+4 -> -d
+5 -> /Users/naga/scala-workspace/projects/FilePoll/build/classes/main
+6 -> -g
+7 -> -XDuseUnsharedTable=true
+compiler version:
+1 items
+0 -> 2.12.0
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> /Users/naga/scala-workspace/projects/FilePoll/build/classes/main/FileMonitor$.class
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> /Users/naga/scala-workspace/projects/FilePoll/build/classes/main/FileMonitor.class
+binary dependencies:
+4 items
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> /Users/naga/.gradle/caches/modules-2/files-2.1/com.beachape.filemanagement/schwatcher_2.12/0.3.3/1262646ce2802534b46d93630690f18f17f523db/schwatcher_2.12-0.3.3.jar
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> /Users/naga/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.12/2.4.12/c258f723abcdee7071ef2b2885e8215088936924/akka-actor_2.12-2.4.12.jar
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> /Users/naga/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.0/270fc1cda47bc255f3cd03152ec8c2ed7d224e2b/scala-library-2.12.0.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> FileMonitor
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> FileMonitor$
+used names:
+67 items
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> !
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> +
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> <init>
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> ActorSystem
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> AnyRef
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> Array
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> BufferedWriter
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> Callback
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> ENTRY_MODIFY
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> FileMonitor
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> FileSystems
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> FileWriter
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> IllegalArgumentException
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> IllegalStateException
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> Messages
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> MonitorActor
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> Paths
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> Predef
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> RegistryTypes
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> SensitivityWatchEventModifier
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> StandardWatchEventKinds
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> String
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> StringContext
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> System
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> Thread
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> Unit
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> actor
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> actorOf
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> actorRef2Scala
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> akka
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> append
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> apply
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> beachape
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> close
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> com
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> desktop
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> desktopFile
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> e
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> exit
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> file
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> fileMonitorActor
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> filemanagement
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> get
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> getMessage
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> io
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> java
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> lang
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> modifyCallbackDirectory
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> modifyCallbackFile
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> nio
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> package
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> path
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> printStackTrace
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> println
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> qual$1
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> qual$2
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> s
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> scala
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> sleep
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> sun
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> system
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> toFile
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> writer
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> x$1
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> x$2
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> x$3
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> x$4
+product stamps:
+2 items
+/Users/naga/scala-workspace/projects/FilePoll/build/classes/main/FileMonitor$.class -> lastModified(1501382643000)
+/Users/naga/scala-workspace/projects/FilePoll/build/classes/main/FileMonitor.class -> lastModified(1501382643000)
+source stamps:
+1 items
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> hash(0e79dc3664a34e960c314288b7b5a53ecd7699f3)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1466622116000)
+/Users/naga/.gradle/caches/modules-2/files-2.1/com.beachape.filemanagement/schwatcher_2.12/0.3.3/1262646ce2802534b46d93630690f18f17f523db/schwatcher_2.12-0.3.3.jar -> lastModified(1501352292000)
+/Users/naga/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.12/2.4.12/c258f723abcdee7071ef2b2885e8215088936924/akka-actor_2.12-2.4.12.jar -> lastModified(1501352299000)
+/Users/naga/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.0/270fc1cda47bc255f3cd03152ec8c2ed7d224e2b/scala-library-2.12.0.jar -> lastModified(1501346094000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/naga/.gradle/caches/modules-2/files-2.1/com.beachape.filemanagement/schwatcher_2.12/0.3.3/1262646ce2802534b46d93630690f18f17f523db/schwatcher_2.12-0.3.3.jar -> com.beachape.filemanagement.MonitorActor$
+/Users/naga/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.12/2.4.12/c258f723abcdee7071ef2b2885e8215088936924/akka-actor_2.12-2.4.12.jar -> akka.actor.ActorSystem
+/Users/naga/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.0/270fc1cda47bc255f3cd03152ec8c2ed7d224e2b/scala-library-2.12.0.jar -> scala.StringContext$
+internal apis:
+1 items
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAPQhcAAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLi+e+t0AAZub3RpZnlzcQB+AAxK6IBGdAAEd2FpdHNxAH4ADJnyZ210AA0kYXNJbnN0YW5jZU9mc3EAfgAMYeqxMHQABmVxdWFsc3NxAH4ADOGvCv90AAxhc0luc3RhbmNlT2ZzcQB+AAyGfVLzdAAMc3luY2hyb25pemVkc3EAfgAMwylvE3QADSRpc0luc3RhbmNlT2ZzcQB+AAzlrgLGdAAEbWFpbnNxAH4ADCs0n2N0AAlub3RpZnlBbGxzcQB+AAx792ymdAAMaXNJbnN0YW5jZU9mc3EAfgAM/LBndXQAC0ZpbGVNb25pdG9yc3EAfgAMlF0TWHQAAj09c3EAfgAMn9B+1nQABWNsb25lc3EAfgAMeAADOnQACHRvU3RyaW5nc3EAfgAMPBTiC3QAAiE9c3EAfgAMk3nILXQACGdldENsYXNzc3EAfgAM2CBDynQAAm5lc3EAfgAMb99eyXQAAmVxc3EAfgAMIVdX23QAAiMjc3EAfgAMcBjmJHQACGZpbmFsaXplc3EAfgAMJf8uknQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAjdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBYAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF9zcQB+AFgBdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAddXEAfgBQAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF50AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBec3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB6dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZ3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AU3QABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AblsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXnNxAH4AbXQABUFycmF5cQB+AHN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbXQABlN0cmluZ3NxAH4AcXNxAH4AdHVxAH4AdwAAAANzcQB+AHl0AARqYXZhc3EAfgB5dAAEbGFuZ3EAfgB+cHNxAH4AWAF1cQB+ADwAAAAAcHNxAH4AWAF1cQB+AJIAAAACc3EAfgBtdAAGT2JqZWN0cQB+AJZzcQB+AG10AANBbnlxAH4Ac3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV2RYO/DdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQC9Vc2Vycy9uYWdhL3NjYWxhLXdvcmtzcGFjZS9wcm9qZWN0cy9GaWxlUG9sbC9idWlsZC9jbGFzc2VzL21haW50AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQOedw2ZKNOlgwxQoi3taU+zXaZ8w==
+external apis:
+0 items
+source infos:
+1 items
+/Users/naga/scala-workspace/projects/FilePoll/src/main/scala/FileMonitor.scala -> 
+AAAAAQAAAQAAAEcAHSAgICAgIGNhc2UgZSAgICAgICAgICAgICA9PiB7AQAACDYBAAAACwEACyAgICAgICAgICAgAQBOL1VzZXJzL25hZ2Evc2NhbGEtd29ya3NwYWNlL3Byb2plY3RzL0ZpbGVQb2xsL3NyYy9tYWluL3NjYWxhL0ZpbGVNb25pdG9yLnNjYWxhAQBOL1VzZXJzL25hZ2Evc2NhbGEtd29ya3NwYWNlL3Byb2plY3RzL0ZpbGVQb2xsL3NyYy9tYWluL3NjYWxhL0ZpbGVNb25pdG9yLnNjYWxhAGhUaGlzIGNhdGNoZXMgYWxsIFRocm93YWJsZXMuIElmIHRoaXMgaXMgcmVhbGx5IGludGVuZGVkLCB1c2UgYGNhc2UgZSA6IFRocm93YWJsZWAgdG8gY2xlYXIgdGhpcyB3YXJuaW5nLgEAAAAA
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXY+kNut1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9uYWdhL3NjYWxhLXdvcmtzcGFjZS9wcm9qZWN0cy9GaWxlUG9sbC9idWlsZC9jbGFzc2VzL21haW50AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXZFg78N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9Vc2Vycy9uYWdhL3NjYWxhLXdvcmtzcGFjZS9wcm9qZWN0cy9GaWxlUG9sbC9idWlsZC9jbGFzc2VzL21haW50AAEv

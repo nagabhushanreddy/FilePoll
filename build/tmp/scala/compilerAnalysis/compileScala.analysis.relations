@@ -1,0 +1,13 @@
+products:
+   src/main/scala/FileMonitor.scala -> build/classes/main/FileMonitor$.class
+   src/main/scala/FileMonitor.scala -> build/classes/main/FileMonitor.class
+binary dependencies:
+   src/main/scala/FileMonitor.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/FileMonitor.scala -> /Users/naga/.gradle/caches/modules-2/files-2.1/com.beachape.filemanagement/schwatcher_2.12/0.3.3/1262646ce2802534b46d93630690f18f17f523db/schwatcher_2.12-0.3.3.jar
+   src/main/scala/FileMonitor.scala -> /Users/naga/.gradle/caches/modules-2/files-2.1/com.typesafe.akka/akka-actor_2.12/2.4.12/c258f723abcdee7071ef2b2885e8215088936924/akka-actor_2.12-2.4.12.jar
+   src/main/scala/FileMonitor.scala -> /Users/naga/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.0/270fc1cda47bc255f3cd03152ec8c2ed7d224e2b/scala-library-2.12.0.jar
+source dependencies:
+external dependencies:
+class names:
+   src/main/scala/FileMonitor.scala -> FileMonitor
+   src/main/scala/FileMonitor.scala -> FileMonitor$
