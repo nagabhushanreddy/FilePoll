@@ -9,8 +9,9 @@ import akka.actor.Actor
 import akka.event.{Logging, LoggingReceive}
 
 
-class FileSystemActor extends FileProcessing with Actor {
-  val log = Logging(context.system, this)
+
+class FileSystemActor extends FileProcessing with Actor  {
+
   val watchServiceTask = new WatchServiceTask(self)
   val watchThread = new Thread(watchServiceTask, "WatchService")
 
@@ -31,8 +32,8 @@ class FileSystemActor extends FileProcessing with Actor {
       self ! Archive(path)
       self ! "ALIVE"
     }
-    case Created(file) => checkAndMoveToDest(file.toPath)
-    case Modified(file) => checkAndMoveToDest(file.toPath)
+    case Created(file) => fileWorkflow(file.toPath)
+    case Modified(file) => fileWorkflow(file.toPath)
     case Deleted(fileOrDir) => logger.warn("No Action defined for delete!" + fileOrDir.toString)
     case Existing(fileOrDir) => moveExistingFiles(fileOrDir)
     case Archive(fileOrDir) => archEnabled match {
