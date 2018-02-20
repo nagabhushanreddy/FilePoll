@@ -27,11 +27,7 @@ dependencies {
     compile 'com.typesafe.akka:akka-actor_2.12:2.5.1'
     compile 'com.github.nscala-time:nscala-time_2.12:2.16.0'
     compile 'de.huxhorn.lilith:de.huxhorn.lilith.3rdparty.junique:1.0.2'
+    compile  'org.apache.commons:commons-csv:1.5'
+    compile group: 'org.json', name: 'json', version: '20180130'
 
-
-    // We use Scalatest for testing our library
-    testCompile 'junit:junit:4.12'
-    // https://mvnrepository.com/artifact/org.scalatest/scalatest_2.12
-    testCompile group: 'org.scalatest', name: 'scalatest_2.12', version: '3.0.3'
-    testRuntime group: 'org.scala-lang.modules', name: 'scala-xml_2.12', version: '1.0.6'
 }
